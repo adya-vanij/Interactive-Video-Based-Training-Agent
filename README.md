@@ -1,6 +1,9 @@
 <h1>Interactive Video-Based Training Agent</h1>
 <h2>Agent Description</h2>
 The Interactive Video-Based Training Agent is an AI-powered system that uses natural language processing and computer vision technologies to facilitate interactive learning. It provides learners with the ability to ask questions during training sessions, and it responds by offering answers derived from the training material and video content.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1HjiamUlH34/0.jpg)](https://www.youtube.com/watch?v=1HjiamUlH34)
+
 <h2>Problem Statement</h2>
 Traditional training methods, whether in-person or online, often lack real-time interactivity. Learners frequently encounter difficulties in understanding or interpreting specific parts of the training material. The inability to ask questions directly or clarify doubts during a video training session results in reduced engagement, slower learning, and incomplete understanding of the subject matter.
 <h2>Solution Statement</h2>
